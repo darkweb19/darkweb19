@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkweb19&label=Profile%20views&color=0e75b6&style=flat" alt="darkweb19" /> </p>
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1400/0*NgUtI3tYLhuq5Vy0.gif"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*NgUtI3tYLhuq5Vy0.gif"/>
 
 
 - 🌱 I’m currently learning **MERN Stack**
