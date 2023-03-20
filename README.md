@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*NgUtI3tYLhuq5Vy0.gif"/>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently focusing on **MERN Stack**
 
-- 💬 Ask me about **Flutter & HTML ,CSS and JS**
+- 💬 Ask me about **Flutter & Web Dev**
 
 - 📫 How to reach me **sujanstha32@proton.me**
 
