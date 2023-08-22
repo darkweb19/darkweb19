@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently focusing on **MERN Stack**
 
-- 💬 Ask me about **Flutter & Web Dev**
+- 💬 Ask me about **React & NextJS**
 
-- 📫 How to reach me **sujanstha32@proton.me**
+- 📫 How to reach me **sujansthadev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
