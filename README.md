@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi everyone👋, I'm Sujan Shrestha</h1>
-<h3 align="center">A passionate developer living in Toronto,CA and love from Nepal</h3>
+<h3 align="center">A passionate developer living in Toronto, CA and love ❤ from Nepal</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkweb19&label=Profile%20views&color=0e75b6&style=flat" alt="darkweb19" /> </p>
