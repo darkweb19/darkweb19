@@ -7,9 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*NgUtI3tYLhuq5Vy0.gif"/>
 
 
-- 🌱 I’m currently focusing on **MERN Stack**
-
-- 💬 Ask me about **React & NextJS**
+- 🌱 I’m currently focusing on:
+- Advanced **Next.js** features
+- Serverless architectures with AWS **Lambda**.
+- Best practices in DevOps **(Docker)** and Cloud infras using **AWS**.
+- And, of course, copying and pasting code from **ChatGPT** like a true pro! 😆
 
 - 📫 How to reach me **me@sujansthadev.com.np**
 
