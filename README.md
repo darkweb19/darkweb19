@@ -13,7 +13,7 @@
 - Best practices in DevOps **(Docker)** and Cloud infras using **AWS**.
 - And, of course, copying and pasting code from **ChatGPT** like a true pro! 😆
 
- 📫 How to reach me **me@sujansthadev.com.np**
+ 📫 How to reach me **hi@sujanshrestha.ca**
 
 <h3 align="left">Connect with me:</h3>
 
