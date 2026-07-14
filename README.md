@@ -8,10 +8,9 @@
 
 
 🌱 I’m currently focusing on:
-- Advanced **Next.js** features
+- Managing AI Agents and Agentic Workflows using **Claude Code**, **Codex** , **Open Claw** and **n8n**.
 - Serverless architectures with AWS **Lambda**, Supabase **Edge Functions**.
 - Best practices in DevOps **(Docker)** and Cloud infras using **AWS**.
-- Managing AI Agents and Agentic Workflows using **Claude Code**, **Codex** , **Open Claw** and **n8n**.
 - Also following Andrej Karpathy for LLM-WIKI Paradigm. 
 
  📫 How to reach me **hi@sujanshrestha.ca**
